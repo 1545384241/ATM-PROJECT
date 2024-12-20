@@ -1,0 +1,5 @@
+<dependency>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+    <version>x.x.x</version>
+</dependency>
